@@ -1,26 +1,26 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1rem; /* 16px default for optimal readability */
+    font-size: 1rem; 
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    color: #333333; /* Dark text for high contrast */
+    color: #333333; 
 }
 
-/* Step 4: Style the header tag */
+
 header {
-    background-color: #1a365d; /* Deep blue */
-    color: #ffffff; /* White text for accessibility contrast */
+    background-color: #1a365d; 
+    color: #ffffff; 
     padding: 1rem;
 }
 
-/* Step 5: Style the nav tag */
+
 nav {
-    background-color: #2b6cb0; /* Lighter slate blue */
+    background-color: #2b6cb0; 
     padding: 0.5rem;
 }
 
-/* Step 6: Style the main tag */
+
 main {
     background-color: #f7fafc; /* Soft off-white to reduce eye strain */
     font-size: 1.1rem; /* Slightly larger text for main content */
