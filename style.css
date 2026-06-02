@@ -22,35 +22,35 @@ nav {
 
 
 main {
-    background-color: #f7fafc; /* Soft off-white to reduce eye strain */
-    font-size: 1.1rem; /* Slightly larger text for main content */
+    background-color: #f7fafc; 
+    font-size: 1.1rem;
     padding: 2rem;
 }
 
-/* Step 7: Style the footer tag */
+
 footer {
-    background-color: #2d3748; /* Dark charcoal */
+    background-color: #2d3748; 
     color: #ffffff;
     padding: 1rem;
     text-align: center;
 }
 
-/* Step 8: Style the li tag (Navigation/List items) */
+
 li {
-    display: inline-block; /* Aligns list items horizontally */
-    width: 120px;          /* Assigns a fixed width to each item */
+    display: inline-block; 
+    width: 120px;       
     text-align: center;
 }
 
-/* Step 9: Style the h1 tag */
+
 h1 {
     text-align: center;
-    font-family: 'Georgia', serif; /* Distinct heading font */
-    color: #2b6cb0; /* Accessible contrast color */
+    font-family: 'Georgia', serif;
+    color: #2b6cb0; 
 }
 
-/* Step 10: Style the p tag */
+
 p {
-    line-height: 1.6; /* Increases spacing between lines for better readability */
+    line-height: 1.6; 
     margin-bottom: 1.5rem;
 }
