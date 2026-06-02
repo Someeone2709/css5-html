@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem; /* 16px default for optimal readability */
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: #333333; /* Dark text for high contrast */
+}
+
+/* Step 4: Style the header tag */
+header {
+    background-color: #1a365d; /* Deep blue */
+    color: #ffffff; /* White text for accessibility contrast */
+    padding: 1rem;
+}
+
+/* Step 5: Style the nav tag */
+nav {
+    background-color: #2b6cb0; /* Lighter slate blue */
+    padding: 0.5rem;
+}
+
+/* Step 6: Style the main tag */
+main {
+    background-color: #f7fafc; /* Soft off-white to reduce eye strain */
+    font-size: 1.1rem; /* Slightly larger text for main content */
+    padding: 2rem;
+}
+
+/* Step 7: Style the footer tag */
+footer {
+    background-color: #2d3748; /* Dark charcoal */
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Step 8: Style the li tag (Navigation/List items) */
+li {
+    display: inline-block; /* Aligns list items horizontally */
+    width: 120px;          /* Assigns a fixed width to each item */
+    text-align: center;
+}
+
+/* Step 9: Style the h1 tag */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif; /* Distinct heading font */
+    color: #2b6cb0; /* Accessible contrast color */
+}
+
+/* Step 10: Style the p tag */
+p {
+    line-height: 1.6; /* Increases spacing between lines for better readability */
+    margin-bottom: 1.5rem;
+}
